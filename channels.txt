@@ -1,3 +1,11 @@
+WELCOME TO SOFASTREAMS!!
+- Watch TV Channels for free!!
+
+------------ HOW TO WATCH ------------
+- Use this link https://sofastreams.pages.dev/channels/stream-##
+- In the # put the channel code
+
+------------ CHANNELS LIST/CODES ------------
 Stream 643 -  FOX Deportes USA
 Stream 644 -  TCM USA
 Stream 645 -  L'Équipe France
